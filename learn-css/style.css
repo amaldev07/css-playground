@@ -1,5 +1,10 @@
-body {
-    background-color: #32e246; /* Light gray background */
-    height: 100vh; /* Full viewport height */
+html, body {
+    background-color: #acd7b1; /* Light gray background */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    height: 100vh; /* Ensure full height for both html and body */
+}
+
+h1, p {
     margin: 0; /* Remove default margin */
 }
