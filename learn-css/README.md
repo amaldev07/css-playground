@@ -1,4 +1,4 @@
-html, body means the below styles apply to both html and body
+1. html, body means the below styles apply to both html and body
 ```
 html, body {
     background-color: #acd7b1; /* Light gray background */
