@@ -8,3 +8,9 @@ html, body {
 h1, p {
     margin: 0; /* Remove default margin */
 }
+
+.box {
+    display: inline-block;
+    border:  2px solid black;
+    padding: 20px;
+}
