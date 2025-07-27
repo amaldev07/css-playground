@@ -37,6 +37,12 @@
         display: flex;
     }
 
+    .logo-wrapper {
+        display: flex;
+        align-items: center;
+        width: 100%;
+    }
+
     @media screen and (max-width: 600px) {
         .header {
             flex-direction: column;
@@ -64,5 +70,12 @@
 
         .menus {
             display: none;
+        }
+
+        .logo-wrapper {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            width: 100%;
         }
     }
